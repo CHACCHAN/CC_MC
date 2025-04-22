@@ -1,0 +1,21 @@
+{
+    "paginationTitle": "❓️コマンドヘルプ",
+    "commands": {
+        "help": {
+            "description": "コマンドのヘルプを表示します",
+            "usage": "help"
+        },
+        "log_entry": {
+            "description": "MCサーバーのログチャンネルを登録します",
+            "usage": "log_entry"
+        },
+        "log_reset": {
+            "description": "MCサーバーのログチャンネルを解除します",
+            "usage": "log_reset"
+        },
+        "cmd": {
+            "description": "MCサーバーにコマンドを送信します(一部コマンドは禁止済)",
+            "usage": "cmd <マイクラコマンド>"
+        }
+    }
+}

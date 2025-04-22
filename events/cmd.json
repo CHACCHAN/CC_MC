@@ -1,0 +1,6 @@
+{
+    "screen": "minecraft",
+    "title": "コマンドが送信されました",
+    "bans": ["stop"],
+    "serverMessage": "サーバーからの応答"
+}
